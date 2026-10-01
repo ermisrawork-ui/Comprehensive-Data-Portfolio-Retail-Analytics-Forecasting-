@@ -110,26 +110,4 @@ In this project, I am analyzing hiring process data to gain insights from about 
 The focus of this project is to delve into the realm of international debt analysis and understand its dynamics in a specific context. By narrowing down the scope, I aim to provide in-depth insights that resonate with the complexities and challenges faced by the selected region/country.
 
 
-
-
-## Contact Information
-
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
-
-Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
-
-  
-
-## Author  
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[X](https://twitter.com/TaggData)</b> 
-- <b>[Data Unboxed Newsletter](https://tadata.substack.com/)</b> 
-- <b>[HuggingFace](https://huggingface.co/tushar27)</b> 
-- <b>[DagsHub](https://dagshub.com/tushar27)</b> 
-- <b>[Hashnode](https://hashnode.com/@TAGG)</b> 
-- <b>[NovyPro](https://www.novypro.com/profile_projects/tusharagg)</b> 
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
  
